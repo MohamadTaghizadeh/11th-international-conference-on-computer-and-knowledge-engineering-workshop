@@ -12,6 +12,8 @@ https://iccke2021.um.ac.ir/Home/Content?id=13
 # Helpful Links:
 کارآموزی (http://deeplearningcenter.ir/internship)
 
-طرح استادراهنما (http://deeplearningcenter.ir/supervisor) 
-طرح تخصص اپلای کار (http://deeplearningcenter.ir/takar) 
-مرکز مشاوره (http://deeplearningcenter.ir/advice)|
+طرح استادراهنما (http://deeplearningcenter.ir/supervisor)
+
+طرح تخصص اپلای کار (http://deeplearningcenter.ir/takar)
+
+مرکز مشاوره (http://deeplearningcenter.ir/advice)
