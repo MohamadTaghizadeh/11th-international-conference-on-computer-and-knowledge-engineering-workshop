@@ -7,4 +7,4 @@ https://iccke2021.um.ac.ir/Home/Content?id=13
 
 # Slide Poster
 
-![Mohamad Taghizadeh- 10th in international conference on computer and knowledge engineering_Page_01](https://user-images.githubusercontent.com/81808969/139119516-c0bcc4d6-3ba9-4d8a-b1fb-6105bf6da146.jpg)
+![Mohamad Taghizadeh- 10th in international conference on computer and knowledge engineering_Page_01](https://user-images.githubusercontent.com/81808969/139119776-ac1d5e14-ebaf-4a6b-a297-d4efcb104eab.jpg)
