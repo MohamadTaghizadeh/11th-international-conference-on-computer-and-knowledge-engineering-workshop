@@ -10,7 +10,7 @@ https://iccke2021.um.ac.ir/Home/Content?id=13
 ![Mohamad Taghizadeh- 10th in international conference on computer and knowledge engineering_Page_01](https://user-images.githubusercontent.com/81808969/139119776-ac1d5e14-ebaf-4a6b-a297-d4efcb104eab.jpg)
 
 # Workshop Video:
-will available on my Linkedin.com/in/MohamadTaghizadeh
+will available on my linkedin.com/in/MohamadTaghizadeh
 
 # Helpful Links:
 کارآموزی (http://deeplearningcenter.ir/internship)
