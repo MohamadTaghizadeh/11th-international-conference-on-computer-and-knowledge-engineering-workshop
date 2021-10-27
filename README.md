@@ -1,5 +1,5 @@
-# 11th-international-conference-on-computer-and-knowledge-engineering-workshop
-11th international conference on computer and knowledge engineering workshop
+# 11th-international-conference-on-computer-and-knowledge-engineering-workshop - Oct 2021
+11th international conference on computer and knowledge engineering workshop- Oct 2021
 https://iccke2021.um.ac.ir/Home/Content?id=13
 
 
