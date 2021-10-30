@@ -13,7 +13,7 @@ https://iccke2021.um.ac.ir/Home/Content?id=13
 will available on my https://linkedin.com/in/MohamadTaghizadeh
 
 # Helpful Links:
- https://DeepLearningCenter.ir/ مرکز هوش مصنوعی ایران 
+## https://DeepLearningCenter.ir/ مرکز هوش مصنوعی ایران 
 
 کارآموزی (https://deeplearningcenter.ir/internship)
 
