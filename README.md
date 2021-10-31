@@ -11,6 +11,8 @@ https://iccke2021.um.ac.ir/Home/Content?id=13
 
 # Workshop Video:
 will available on my https://linkedin.com/in/MohamadTaghizadeh
+https://www.youtube.com/watch?v=rweL7OMqS6M
+https://youtu.be/rweL7OMqS6M
 
 # Helpful Links:
 ## https://DeepLearningCenter.ir/ مرکز هوش مصنوعی ایران 
